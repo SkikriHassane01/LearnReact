@@ -1,0 +1,16 @@
+.ClockContainer{
+    background-color: rgb(62, 60, 60);
+    text-align: center;
+    align-content: center;
+    width: auto;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.Clock{
+    color: hsl(0, 0%, 100%);
+    font-size: 4rem;
+    font-family: monospace;
+    font-weight: 600;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.276);
+}
